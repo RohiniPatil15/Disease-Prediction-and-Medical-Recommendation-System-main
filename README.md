@@ -29,6 +29,6 @@ The Disease Prediction and Medical Recommendation System is a Python-based web a
 - requirements.t…
 
 - >>> Run the application:
-- pythonmain.py
+- python main.py
 
 - Open the local URL shown by flask in your browser.
